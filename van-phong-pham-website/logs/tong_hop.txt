@@ -1,0 +1,15 @@
+ === TONG HOP LOG ===
+
+
+2025-10-28 08:51:28 [WARNING] Thoi gian tai trang cham
+2025-10-28 08:54:28 [WARNING] Anh san pham dung luong lon
+2025-10-28 08:57:28 [WARNING] Thoi gian tai trang cham
+ 
+2025-10-28 08:24:28 [ERROR] Thanh toan bi tu choi
+2025-10-28 08:30:28 [ERROR] Thanh toan bi tu choi
+2025-10-28 08:33:28 [ERROR] Ket noi kho du lieu that bai
+2025-10-28 08:39:28 [ERROR] Ket noi kho du lieu that bai
+2025-10-28 08:42:28 [ERROR] Ket noi kho du lieu that bai
+2025-10-28 09:12:28 [ERROR] Thanh toan bi tu choi
+
+
